@@ -1,0 +1,42 @@
+<foods>
+  <food>
+    <name>Cafe Latte</name>
+    <price>36</price>
+  </food>
+  <food>
+    <name>Cappuccino</name>
+    <price>36</price>
+  </food>
+  <food>
+    <name>Americano</name>
+    <price>32</price>
+  </food>
+  <food>
+    <name>Espresso</name>
+    <price>48</price>
+  </food>
+  <food>
+    <name>Filtre Kahve</name>
+    <price>29</price>
+  </food>
+  <food>
+    <name>Çay</name>
+    <price>12</price>
+  </food>
+  <food>
+    <name>Sütlü Çay</name>
+    <price>18</price>
+  </food>
+  <food>
+    <name>Milkshake (Çilekli)</name>
+    <price>60</price>
+  </food>
+  <food>
+    <name>Milkshake (Çikolatalı)</name>
+    <price>60</price>
+  </food>
+  <food>
+    <name>Milkshake (Vanilyalı)</name>
+    <price>60</price>
+  </food>
+</foods>
